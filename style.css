@@ -71,6 +71,13 @@
   
   .msg {
     margin: 2rem 0 2rem 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0.5rem;
+    background-color: #caf0f8;
+    height: 2rem;
+    font-size: 1rem;
   }
   
   form button {
